@@ -1,1 +1,4 @@
-# Grid-Based-Movement-Demo
+PROJECT TITLE: Grid Based Movement Demo
+VERSION/DATE: 1.0 - April 2022
+AUTHOR: Vachia Thoj
+————
