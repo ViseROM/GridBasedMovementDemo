@@ -1,5 +1,10 @@
 import java.awt.Graphics2D;
 
+/**
+ * StateManager class manages the different possible States
+ * @author Vachia Thoj
+ *
+ */
 public class StateManager 
 {
 	//For singleton
