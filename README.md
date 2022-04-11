@@ -1,10 +1,11 @@
+# GridBasedMovementDemo
 Project Title: Grid Based Movement Demo
 
 Version/Date: 1.0 - April 2022
 
 Author: Vachia Thoj
 
-Description: A Demo of how an objects moves on a grid/tile map. 
+Description: A Demo of how an objects moves on a grid/tile map. GUI built using the Swing and AWT libraries in Java
 
 
 
