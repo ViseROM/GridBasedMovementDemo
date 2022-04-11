@@ -7,8 +7,10 @@ Author: Vachia Thoj
 
 #### Description: 
 - A Demo of how an objects moves on a grid/tile map. 
-- Possible movements: left, right, up, down, NO diagonal movements
 - GUI built using the Swing and AWT libraries in Java
+- Possible movements: left, right, up, down, NO diagonal movements
+- Keyboard controls: Arrow keys
+
 
 
 
